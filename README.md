@@ -1,4 +1,4 @@
-# Planilha-Excel-que-ajude-a-organizar-informa-es-essenciais-para-a-declara-o-de-imposto-de-renda
+# Organiza e reúne informações essenciais para auxiliar na preparação da declaração.
 Criar uma ferramenta no Excel que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda
 
 Ferramenta de Organização para Declaração de Imposto de Renda
